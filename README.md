@@ -1,11 +1,11 @@
 # Hello, I'm Muhammad Alhayani
 <a href="https://www.linkedin.com/in/muhammadalhayani/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Passionate cybersecurity professional specializing in SOC operations with 1 year of hands-on labs experience in cybersecurity. I excel in proactive threat monitoring, rapid incident response, and am committed to continuous learning and excellence. Known for meticulous attention to detail, strong problem-solving skills, and a collaborative approach to cybersecurity challenges.
+Passionate cybersecurity professional specializing in Security Operations Centers (SOC) with 1 year of hands-on lab experience in cybersecurity. I excel in proactive threat monitoring, rapid incident response, and am committed to continuous learning and excellence. Known for meticulous attention to detail, strong problem-solving skills, and a collaborative approach to cybersecurity challenges.
 
 ## Objective
 
-As a SOC L1 analyst, I am dedicated to safeguarding organizations and individuals worldwide from malicious cyber threats, contributing to the global cybersecurity community. With a particular focus on the Arabic community, I utilize modern technologies and advanced techniques to empower them with the necessary resources to defend against evolving cyber threats effectively.
+As an SOC L1 analyst, my mission is to protect organizations and individuals globally from cyber threats through the adept application of cutting-edge technologies and advanced methodologies. I am passionate about contributing to the global cybersecurity landscape, with a special commitment to the Arabic community, by bridging linguistic barriers and sharing my expertise.
 
 ## Tools
 
