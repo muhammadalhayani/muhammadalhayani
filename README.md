@@ -63,20 +63,20 @@ As a SOC L1 analyst, I am dedicated to safeguarding organizations and individual
 </div>
 
 ## Projects
-- **Implement Caesar Cipher**
-- **Pixel Manipulation for Image Encryption**
+- **Caesar Cipher Encryption Tool**
+- **Advanced Image Encryption Tool Using AES Algorithms**
 - **Password Complexity Checker**
-- **Simple Keylogger**
+- **Simple Keylogger Implementation**
 - **Network Packet Analyzer**
-- **Implemented the NIST CSF framework for security incident response**
-- **Conducted a security audit and compliance enhancement**
-- **Utilized Wireshark and Tcpdump to capture and analyze malicious network traffic**
-- **Developed a comprehensive EVE-NG lab**
-- **Configured and hardened network devices**
-- **Installed and hardened operating systems**
-- **Conducted a legal penetration testing on a vulnerable website using Nmap, Metasploit, and Burp Suite**
-- **Developed a lab to exfiltrate sensitive data using DNS protocol**
-- **Configured Wazuh Server and agents and connected them with a firewall**
+- **NIST CSF Framework for Incident Response**
+- **Security Audit and Compliance Enhancement**
+- **Wireshark and Tcpdump for Network Traffic Analysis**
+- **Comprehensive EVE-NG Lab Development**
+- **Network Device Configuration and Hardening**
+- **Operating System Installation and Hardening**
+- **Legal Penetration Testing on Vulnerable Website**
+- **DNS Protocol Data Exfiltration Lab**
+- **Wazuh Server and Agent Configuration**
 
 ## Courses
 <div>
