@@ -63,12 +63,12 @@ As a SOC L1 analyst, my mission is to protect organizations and individuals glob
 </div>
 
 ## Projects
-- **Programmed 5 tools using Python:**
--    **Caesar Cipher Encryption Tool**
--    **Advanced Image Encryption Tool Using AES Algorithms**
--    **Password Complexity Checker**
--    **Simple Keylogger Implementation**
--    **Network Packet Analyzer**
+- **Programmed 5 tools using Python:** <br>
+      - Caesar Cipher Encryption Tool <br>
+      - Advanced Image Encryption Tool Using AES Algorithms <br>
+      - Password Complexity Checker <br>
+      - Simple Keylogger Implementation <br>
+      - Network Packet Analyzer <br>
 - **NIST CSF Framework for Incident Response**
 - **Security Audit and Compliance Enhancement**
 - **Wireshark and Tcpdump for Network Traffic Analysis**
