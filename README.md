@@ -5,7 +5,7 @@ Passionate cybersecurity professional specializing in Security Operations Center
 
 ## Objective
 
-As an SOC L1 analyst, my mission is to protect organizations and individuals globally from cyber threats through the adept application of cutting-edge technologies and advanced methodologies. I am passionate about contributing to the global cybersecurity landscape, with a special commitment to the Arabic community, by bridging linguistic barriers and sharing my expertise.
+As a SOC L1 analyst, my mission is to protect organizations and individuals globally from cyber threats through the adept application of cutting-edge technologies and advanced methodologies. I am passionate about contributing to the global cybersecurity landscape, with a special commitment to the Arabic community, by bridging linguistic barriers and sharing my expertise.
 
 ## Tools
 
